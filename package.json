@@ -1,0 +1,24 @@
+{
+  "name": "projet",
+  "version": "1.0.0",
+  "description": "New project Java Script course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Locky-dev/Projet-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Locky-dev/Projet-js/issues"
+  },
+  "homepage": "https://github.com/Locky-dev/Projet-js#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.26.5"
+  }
+}
